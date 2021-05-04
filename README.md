@@ -1,2 +1,2 @@
 # imgConvert
-convert image to other format images and rename
+convert image to other format images and rename.
